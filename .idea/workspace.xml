@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e07eb5bd-241e-4338-b614-4e51dd0455b1" name="Default Changelist" comment="" />
+    <list default="true" id="e07eb5bd-241e-4338-b614-4e51dd0455b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_syntax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,11 +25,15 @@
   </component>
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1iElzsNslDiCeGIFHC5nPIsAKn5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -75,10 +86,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="270" key="Github.ShareDialog" timestamp="1601536704416">
+    <state x="533" y="270" key="Github.ShareDialog" timestamp="1601656006729">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="533" y="270" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1601536704416" />
+    <state x="533" y="270" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1601656006729" />
+    <state x="428" y="0" key="Github.UntrackedFilesDialog" timestamp="1601656074308">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="428" y="0" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601656074308" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1601538825601">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
