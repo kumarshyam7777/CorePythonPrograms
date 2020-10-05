@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e07eb5bd-241e-4338-b614-4e51dd0455b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary_syntax.py" afterDir="false" />
+    <list default="true" id="e07eb5bd-241e-4338-b614-4e51dd0455b1" name="Default Changelist" comment="python dictionary syntax example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="practice_list_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -66,11 +62,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.practice_list_tuple" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,7 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1601480897610</updated>
     </task>
+    <task id="LOCAL-00001" summary="python dictionary syntax example">
+      <created>1601657620619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601657620620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python dictionary syntax example" />
+    <option name="LAST_COMMIT_MESSAGE" value="python dictionary syntax example" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="270" key="Github.ShareDialog" timestamp="1601656006729">
@@ -94,9 +97,13 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="428" y="0" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601656074308" />
-    <state x="184" y="13" key="SettingsEditor" timestamp="1601538825601">
+    <state x="184" y="13" key="SettingsEditor" timestamp="1601873278829">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601538825601" />
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601873278829" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601657720977">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601657720977" />
   </component>
 </project>

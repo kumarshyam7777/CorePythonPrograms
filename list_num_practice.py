@@ -1,0 +1,16 @@
+marks1 = input("Enter the marks 1: ")
+marks_1 = int(marks1)
+marks2 = input("Enter the marks 2: ")
+marks_2 = int(marks2)
+marks3 = input("Enter the marks 3: ")
+marks_3 = int(marks3)
+marks4 = input("Enter the marks 4: ")
+marks_4 = int(marks4)
+marks5 = input("Enter the marks 5: ")
+marks_5 = int(marks5)
+marks6 = input("Enter the marks 6: ")
+marks_6 = int(marks6)
+
+mylist = [marks_1,marks_2,marks_3,marks_4,marks_5,marks_6]
+mylist.sort()
+print(mylist)
