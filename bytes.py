@@ -1,6 +1,6 @@
-list = [10, 20, 30, 40]
-print(type(list))
-b = bytes(list)
+list_1 = [10, 20, 30, 40]
+print(type(list_1))
+b = bytes(list_1)
 print(type(b))
 
 for i in b:
