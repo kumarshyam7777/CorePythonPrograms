@@ -1,5 +1,5 @@
 # s = 'durga' + 10
-# print(s)  # String concate is possible with strin only in Python
+# print(s)  # String concatenation is possible with string only in Python
 
 s = 'durga' * 3
 print(s)
