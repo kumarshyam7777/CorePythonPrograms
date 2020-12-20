@@ -1,5 +1,5 @@
 # Simple way to creating a set .
-# A set does not support repeatation
+# A set does not support repeat
 set_1 = {1, 1, 2, 2, 3, 3, 4, 4, 5, 5}
 print(type(set_1))
 print(set_1)
