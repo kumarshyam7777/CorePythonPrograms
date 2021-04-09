@@ -1,6 +1,6 @@
 s = 'durga'
 output = s[0].upper()+s[1:]
-print(output)
+print(output) 
 
 str = 'shyam'
 output = str[:len(str)-1] + str[-1].upper()
