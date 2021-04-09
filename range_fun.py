@@ -1,4 +1,5 @@
 r2 = range(11)
+# print(r2)
 
 for i in r2:
     print(i)
