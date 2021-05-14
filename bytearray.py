@@ -8,3 +8,4 @@ b[1] = 120
 
 for j in b:
     print(j)
+
